@@ -21,7 +21,7 @@ A PDF of slide deck is [in this repo](docs/2.5-WebLayoutandWires.pdf).
 
 ### Wireframes
 
-![Wireframes](img/wireframes.jpg)
+![Wireframes](img/wireframes.png)
 
 Wireframes should express:
 
